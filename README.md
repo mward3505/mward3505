@@ -1,8 +1,8 @@
 # Hi, I'm Matthew Ward 👋
 
-I'm a full-stack developer with a focus on Python backends and React frontends. I recently built [TimeForge](https://github.com/mward3505/timeforge) — a scheduling app that helps you build realistic daily plans based on your actual available time, not wishful thinking.
+Full-stack software engineer with professional experience building React web features and Python APIs at **Reaction Data** — where I've cut backend response times by 20% and automated workflows that saved analysts 75% of their time.
 
-I've been working as a developer for over a year and a half while actively sharpening my skills through real projects. I'm currently looking for a full-time role where I can contribute to meaningful products and keep growing.
+I'm bilingual (English/Spanish), have a background in Agile product delivery, and I build things that solve real problems. Currently looking for a full-time engineering role.
 
 ---
 
@@ -16,19 +16,28 @@ I've been working as a developer for over a year and a half while actively sharp
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**Tools & Deployment**
+**Tools & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project
 
 ### [TimeForge](https://github.com/mward3505/timeforge) — [Live Demo](https://timeforge-mvp.netlify.app/)
-A full-stack scheduling app built with React + TypeScript and FastAPI. Features JWT authentication, a priority-based scheduling algorithm, and a 7-day calendar interface. Built to solve a real problem: planning too much for the time you actually have.
+A full-stack scheduling app built with React + TypeScript and FastAPI. Features JWT authentication, timezone-aware scheduling, internationalization (i18next), and a priority-based algorithm that fits tasks to your actual available time. Deployed on Netlify and Render.
+
+---
+
+## 💼 Currently
+
+- 👨‍💻 Full-Stack Developer at **Reaction Data** — building React features and Python APIs in production
+- 🎓 B.A.S. in Software Development, Utah Valley University (2025)
+- 🌎 Bilingual: English & Spanish
+- 🔍 Open to full-time software engineering roles
 
 ---
 
@@ -38,13 +47,14 @@ A full-stack scheduling app built with React + TypeScript and FastAPI. Features 
 
 ---
 
-## 🤙 Outside the Code
+## 🏎️ Outside the Code
 
-When I'm not building, I'm probably in a sim racing cockpit chasing lap times. The obsession with performance data and marginal gains carries over pretty well into software.
+When I'm not shipping features I'm chasing lap times in sim racing — the same obsession with incremental improvement and performance data applies in both places.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/matthew-ward-a5507624a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][(https://linkedin.com/in/YOUR_LINKEDIN_HERE)](https://www.linkedin.com/in/matthew-ward-a5507624a/).
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matt.ward3505@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mward3505.github.io)
