@@ -55,6 +55,6 @@ When I'm not shipping features I'm chasing lap times in sim racing — the same 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][(https://linkedin.com/in/YOUR_LINKEDIN_HERE)](https://www.linkedin.com/in/matthew-ward-a5507624a/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-ward-a5507624a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matt.ward3505@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mward3505.github.io)
