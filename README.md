@@ -29,6 +29,9 @@ I'm bilingual (English/Spanish), have a background in Agile product delivery, an
 
 ### [TimeForge](https://github.com/mward3505/timeforge) — [Live Demo](https://timeforge-mvp.netlify.app/)
 A full-stack scheduling app built with React + TypeScript and FastAPI. Features JWT authentication, timezone-aware scheduling, internationalization (i18next), and a priority-based algorithm that fits tasks to your actual available time. Deployed on Netlify and Render.
+### [Wonce World](https://github.com/mward3505/wonce_world) — Published on Google Play
+A bilingual (English/Spanish) educational mobile app for children built with React Native and Expo. Features interactive learning activities, audio cues, and custom SVG animations. Published to Google Play.
+
 
 ---
 
